@@ -5,7 +5,7 @@ I'm an enthusiast web developer with a past of 13 years studying and working in 
 ### My passions and favorite tools 😍
 I'm a passionate of backend development, and I love Python language, APIs building and handling as well as databases management through MySQL. Right now, I'm venturing into new knowledge about Node.js, Express.js and non-relational databases as MongoDB, because of their huge power for web development.
 <br>
-Besides the technical skills and likes, I enjoy team work, collaboration and agiles methodologies as a way of manage projects.
+Besides the technical skills and likes, I enjoy team work, collaboration and agiles methodologies as a way of managing projects.
 
 ### How to reach me 📞
 <a href="https://www.linkedin.com/in/nicolasportela"><img src="https://i.imgur.com/M44jSX8.png" alt="LinkedIn" width="40" height="40"/> <a href="mailto:nicolasportelam@gmail.com"><img src="https://i.imgur.com/VqrjIxO.png" alt="E-mail" width="40" height="40"/>
