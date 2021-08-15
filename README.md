@@ -3,7 +3,7 @@
 I'm an enthusiast web developer with a past of 13 years studying and working in Social Sciences. After many years collaborating with developers and communities as user, I decided in 2019 to start a progressive transition to turn that hobby into my new career as software developer, attracted by the fun, opportunities and challenges this amazing world of programming offers.
 
 ### My passions and favorite tools 😍
-I'm a passionate of backend development, and I love Python language, APIs building and handling as well as databases management through MySQL. Right now, I'm venturing into new knowledge about Node.js, Express.js and non-relational databases as MongoDB, because of their huge power for web development.
+I'm a passionate of backend development, and I love Python language, APIs building and handling as well as databases management through MySQL. Right now, I'm venturing into new knowledge about Node, Express, Angular, React, TypeScript and non-relational databases as MongoDB, because of their huge power for web development.
 <br>
 Besides the technical skills and likes, I enjoy team work, collaboration and agiles methodologies as a way of managing projects.
 
