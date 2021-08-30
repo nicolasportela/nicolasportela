@@ -5,6 +5,7 @@ I'm an enthusiast full-stack developer with a past of 13 years studying and work
 ### My passions and favorite tools 😍
 I'm a passionate of backend development, and I love Python language, APIs building and handling as well as databases management through MySQL. Right now, I'm venturing into new knowledge about Node, Express, Angular and TypeScript, because of their huge power for web development.
 <br>
+
 Besides the technical skills and likes, I enjoy team work, collaboration and agiles methodologies as a way of managing projects.
 
 ### How to reach me 📞
