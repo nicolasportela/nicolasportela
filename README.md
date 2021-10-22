@@ -1,6 +1,6 @@
 ### Hi there! I'm [Nicolás](https://www.linkedin.com/in/nicolasportela) 👋
 
-I'm an enthusiast full-stack developer with a past of 13 years studying and working in Social Sciences. After many years collaborating with developers and communities as user, I decided in 2019 to start a progressive transition to turn that hobby into my new career as software developer, attracted by the fun, opportunities and challenges this amazing world of programming offers.
+I'm an enthusiast software developer with a past of 13 years studying and working in Social Sciences. After many years collaborating with developers and communities as user, I decided in 2019 to start a progressive transition to turn that hobby into my new career as software developer, attracted by the fun, opportunities and challenges this amazing world of programming offers.
 
 ### My passions and favorite tools 😍
 I'm a passionate of Python as programming language and enjoy working with Angular as web framework. Besides those technical skills and likes, I love team work, collaboration and agiles methodologies as a way of managing projects.
