@@ -3,7 +3,7 @@
 I'm an enthusiast software developer with a past of 13 years studying and working in Social Sciences. After many years collaborating with developers and communities as user, I decided in 2019 to start a progressive transition to turn that hobby into my new career as software developer, attracted by the fun, opportunities and challenges this amazing world of programming offers.
 
 ### My passions and favorite tools 😍
-I'm a passionate of Python as programming language and enjoy working with Angular as web framework. Besides those technical skills and likes, I love team work, collaboration and agiles methodologies as a way of managing projects.
+I particularly enjoy Python as a programming language and I am currently specializing in the use of Angular as a web framework. Besides those technical skills and likes, I love team work, collaboration and agiles methodologies as a way of managing projects.
 
 ### How to reach me 📞
 <a href="https://www.linkedin.com/in/nicolasportela"><img src="https://i.imgur.com/M44jSX8.png" alt="LinkedIn" width="40" height="40"/> <a href="mailto:nicolasportelam@gmail.com"><img src="https://i.imgur.com/VqrjIxO.png" alt="E-mail" width="40" height="40"/>
