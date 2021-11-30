@@ -4,6 +4,7 @@ I am a software developer eager to learn, with the particularity of having a pas
 
 ### My passions and favorite tools 😍
 I am particularly enthusiastic about Python as a language, but I have lately worked with and discovered the power of JavaScript and its frameworks for web development.
+
 Apart from technical tastes and skills, I enjoy teamwork, collaboration and agile methodologies as a way to manage projects.
 
 ### How to reach me 📞
