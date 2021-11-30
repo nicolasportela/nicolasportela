@@ -1,9 +1,10 @@
 ### Hi there! I'm [Nicolás](https://www.linkedin.com/in/nicolasportela) 👋
 
-I'm an enthusiast software developer with a past of 13 years studying and working in Social Sciences. After many years collaborating with developers and communities as user, I decided in 2019 to start a progressive transition to turn that hobby into my new career as software developer, attracted by the fun, opportunities and challenges this amazing world of programming offers.
+I am a software developer eager to learn, with the particularity of having a past of 13 years studying and working in the field of Social Sciences. It was in 2019 that I started a formative/labor conversion, after several years collaborating with developers and communities at user level. It was thus that I decided to start a progressive transition to turn said hobby into my new profession, attracted by the entertainment, opportunities and challenges that the world of programming offers.
 
 ### My passions and favorite tools 😍
-I particularly enjoy Python as a programming language and I am currently specializing in the use of Angular as a web framework. Besides those technical skills and likes, I love team work, collaboration and agiles methodologies as a way of managing projects.
+I am particularly enthusiastic about Python as a language, but I have lately worked with and discovered the power of JavaScript and its frameworks for web development.
+Apart from technical tastes and skills, I enjoy teamwork, collaboration and agile methodologies as a way to manage projects.
 
 ### How to reach me 📞
 <a href="https://www.linkedin.com/in/nicolasportela"><img src="https://i.imgur.com/M44jSX8.png" alt="LinkedIn" width="40" height="40"/> <a href="mailto:nicolasportelam@gmail.com"><img src="https://i.imgur.com/VqrjIxO.png" alt="E-mail" width="40" height="40"/>
