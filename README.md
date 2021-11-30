@@ -2,13 +2,13 @@
 
 I am a software developer eager to learn, with the particularity of having a past of 13 years studying and working in the field of Social Sciences. It was in 2019 that I started a formative/labor conversion, after several years collaborating with developers and communities at user level. It was thus that I decided to start a progressive transition to turn said hobby into my new profession, attracted by the entertainment, opportunities and challenges that the world of programming offers.
 
-
+<br>
 ### My passions and favorite tools 😍
 I am particularly enthusiastic about Python as a language, but I have lately worked with and discovered the power of JavaScript and its frameworks for web development.
 
 Apart from technical tastes and skills, I enjoy teamwork, collaboration and agile methodologies as a way to manage projects.
 
-
+<br>
 ### How to reach me 📞
 <a href="https://www.linkedin.com/in/nicolasportela"><img src="https://i.imgur.com/M44jSX8.png" alt="LinkedIn" width="40" height="40"/> <a href="mailto:nicolasportelam@gmail.com"><img src="https://i.imgur.com/VqrjIxO.png" alt="E-mail" width="40" height="40"/>
 
