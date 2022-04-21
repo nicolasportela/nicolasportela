@@ -6,6 +6,7 @@ I am a software developer eager to learn, with the particularity of having a pas
 ### My passions and favorite tools 😍
 
 My main tastes and skills are oriented towards frontend development with JavaScript frameworks (Angular especially), although Python also excites me as a language.
+
 Apart from these technical tastes and skills, I enjoy teamwork, collaboration and agile methodologies as a way to manage projects.
 <br>
 
