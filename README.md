@@ -1,13 +1,13 @@
 ### Hi there! I'm [Nicolás](https://www.linkedin.com/in/nicolasportela) 👋
 
-I am a software developer eager to learn, with the particularity of having a past of 13 years studying and working in the field of Social Sciences. It was in 2019 that I started a formative/labor conversion, after several years collaborating with developers and communities at user level. It was thus that I decided to start a progressive transition to turn said hobby into my new profession, attracted by the entertainment, opportunities and challenges that the world of programming offers.
+I am a software developer with the particularity of having dedicated myself previously and for several years to the study and work in the field of Social Sciences. I appreciate the comprehensive training in hard and soft skills that this dual career has allowed me to develop. 
 <br>
 
-### My passions and favorite tools 😍
+### My skills and favorite technologies 😍
 
-My main tastes and skills are oriented towards frontend development with JavaScript frameworks (Angular especially), although Python also excites me as a language.
+I consider myself detail-oriented and eager to incorporate new knowledge, and I enjoy teamwork, collaboration and agile methodologies as a way to manage projects.
 
-Apart from these technical tastes and skills, I enjoy teamwork, collaboration and agile methodologies as a way to manage projects.
+On a technical level, my main tastes and skills are oriented towards frontend development with JavaScript frameworks (especially Angular), although Python also excites me as a language.
 <br>
 
 ### How to reach me 📞
