@@ -11,8 +11,7 @@ On a technical level, my main tastes and skills are oriented towards frontend de
 <br>
 
 ### How to reach me 📞
-<a href="https://www.linkedin.com/in/nicolasportela"><img src="https://i.imgur.com/M44jSX8.png" alt="LinkedIn" width="40" height="40"/> <a href="mailto:nicolasportelam@gmail.com"><img src="https://i.imgur.com/VqrjIxO.png" alt="E-mail" width="40" height="40"/>
-
+<a href="https://www.linkedin.com/in/nicolasportela"><img src="https://i.imgur.com/M44jSX8.png" alt="LinkedIn" width="40" height="40"/> <a href="https://nportela.notion.site"><img src="https://i.imgur.com/2XK4d18.png" alt="E-mail" width="40" height="40"/> <a href="mailto:nicolasportelam@gmail.com"><img src="https://i.imgur.com/VqrjIxO.png" alt="E-mail" width="40" height="40"/>
 <br>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasportela&hide=issues&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20stats)](https://github.com/nicolasportela)
